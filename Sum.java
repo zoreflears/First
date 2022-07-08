@@ -2,7 +2,7 @@
 public static void main(String arg[])
 {
 int a=;
-int b=6;
+int b=8;
 System.out.print("print");
 }
 }
